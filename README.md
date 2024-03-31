@@ -17,6 +17,4 @@ A sample solution is given in `9040assign9.py`.
 
 ```{zsh}
  $ python3 9040assign9.py
-
 ```
-
